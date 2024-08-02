@@ -40,3 +40,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 ## Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme en [sanchezjosue2001@gmail.com](mailto:sanchezjosue2001@gmail.com).
+
+## Videos explicativo de como funciona la app
+https://miucateciedu-my.sharepoint.com/:f:/g/personal/20210882_miucateci_edu_do/ErlUZiofrLZDnIa2da9U7VgBq1lav0Hj4aUAEkKb2uK9pw?e=kKnAPx
